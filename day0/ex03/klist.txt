@@ -1,0 +1,7 @@
+Credentials cache: API:41965
+        Principal: ylevy@S19.BE
+
+  Issued                Expires               Principal
+Aug  7 11:18:56 2018  Aug  7 21:18:56 2018  krbtgt/S19.BE@S19.BE
+Aug  7 11:18:57 2018  Aug  7 21:18:56 2018  ldap/ldap-master.s19.be@S19.BE
+Aug  7 11:18:57 2018  Aug  7 21:18:56 2018  HTTP/san-ssd.s19.be@S19.BE
